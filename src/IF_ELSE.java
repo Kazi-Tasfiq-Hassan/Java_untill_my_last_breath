@@ -1,10 +1,11 @@
 public class IF_ELSE{
     public static void main(String[] args){
-        int Ayesha_age = 20;
-        if(Ayesha_age>22){
-            System.out.println("Ayesha is older than Tashfiq ");
+        int Tashfiq_age = 20;
+        if(Tashfiq_age>22){
+            System.out.println("Tashfiq is older than Lukas ");
         }else{
-            System.out.println("Ayesha is younger than Tashfiq. And her age is " + Ayesha_age);
+            System.out.println("Tashfiq is younger than Lukas. And his age is " + Tashfiq_age);
+
         }
 
     }

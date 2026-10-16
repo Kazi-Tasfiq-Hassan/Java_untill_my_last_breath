@@ -1,9 +1,9 @@
 public class Methods{
-    public static void Ayesha(){
+    public static void Tashfiq(){
         System.out.println("Please sleep Tashfiq");
     }
     public static void main(String[] args){
-        Ayesha();
-        Ayesha();
+        Tashfiq();
+        Tashfiq();
     }
 }
