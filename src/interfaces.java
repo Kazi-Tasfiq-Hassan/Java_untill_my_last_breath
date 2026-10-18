@@ -12,7 +12,6 @@ interface smart_device{
             System.out.println("The smart lights are turned on");
         }
     }
-
 public class interfaces {
     public static void main(String[] args){
         smart_device[] smart_home = new smart_device[2];
