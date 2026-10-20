@@ -6,6 +6,7 @@ class Bank_Account{
         this.balance = balance;
     }
     Bank_Account(String account_number){
+
         this(account_number, 0.0);
     }
     void display_info(){
